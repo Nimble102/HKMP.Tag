@@ -923,58 +923,7 @@
                         "NailmastersGlory", "Dashmaster", "Sprintmaster"
                     ],
                     "skills": [
-                        "CycloneSlash", "DashSlash", "GreatSlash", "MantisClaw", "CrystalHeart", "MonarchWings",
-                        "IsmasTear", "ShadeCloak", "MothwingCloak"
-                    ]
-                }
-            }
-        },
-        {
-            "name": "queens-gardens-petra-medium",
-            "warp_transitions": {
-                "Fungus3_08": [
-                    "left1"
-                ],
-                "Fungus3_10": [
-                    "top1"
-                ],
-                "Fungus3_39": [
-                    "left1"
-                ]
-            },
-            "min_players": 6,
-            "max_players": 20,
-            "transitions": {
-                "Fungus3_10": [
-                    "top1"
-                ],
-                "Fungus3_08": [
-                    "left1"
-                ],
-                "Fungus3_39": [
-                    "right1"
-                ],
-                "Fungus3_11": [
-                    "right1",
-                    "left1"
-                ]
-            },
-            "loadouts": {
-                "normal": {
-                    "charms": [
-                        "WaywardCompass", "Kingsoul", "Dashmaster", "Flukenest", "BaldurShell"
-                    ],
-                    "skills": [
-                        "CycloneSlash", "DashSlash", "GreatSlash", "MantisClaw", "CrystalHeart", "MonarchWings",
-                        "IsmasTear", "ShadeCloak", "MothwingCloak", "VengefulSpirit"
-                    ]
-                },
-                "infected": {
-                    "charms": [
-                        "NailmastersGlory", "Dashmaster", "Sprintmaster"
-                    ],
-                    "skills": [
-                        "CycloneSlash", "DashSlash", "GreatSlash", "MantisClaw", "CrystalHeart", "MonarchWings",
+                        "DashSlash", "GreatSlash", "MantisClaw", "CrystalHeart", "MonarchWings",
                         "IsmasTear", "ShadeCloak", "MothwingCloak"
                     ]
                 }
@@ -989,14 +938,11 @@
                 "Fungus3_05": [
                     "left1"
                 ],
-                "Fungus3_24": [
-                    "left1"
-                ],
                 "Fungus3_39": [
                     "left1"
                 ]
             },
-            "min_players": 10,
+            "min_players": 8,
             "max_players": 30,
             "transitions": {
                 "Fungus3_08": [
